@@ -1,0 +1,45 @@
+c:\users\asus\documents\visual studio 2013\Projects\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.exe
+c:\users\asus\documents\visual studio 2013\Projects\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.pdb
+c:\users\asus\documents\visual studio 2013\Projects\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.Form1.resources
+c:\users\asus\documents\visual studio 2013\Projects\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.exe
+c:\users\asus\documents\visual studio 2013\Projects\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.pdb
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU1\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.exe.config
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.exe
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.pdb
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU1\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.exe
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU1\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.pdb
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.Form1.resources
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.Properties.Resources.resources
+C:\Users\asus\Desktop\DERS\github\VERİ YAPILARI ÖDEV1\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.csproj.GenerateResource.Cache
+C:\Users\X556\Desktop\SORU1\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.exe.config
+C:\Users\X556\Desktop\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.exe
+C:\Users\X556\Desktop\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.pdb
+C:\Users\X556\Desktop\SORU1\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.exe
+C:\Users\X556\Desktop\SORU1\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.pdb
+C:\Users\X556\Desktop\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.csprojResolveAssemblyReference.cache
+C:\Users\X556\Desktop\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.Form1.resources
+C:\Users\X556\Desktop\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.Properties.Resources.resources
+C:\Users\X556\Desktop\SORU1\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.csproj.GenerateResource.Cache
+C:\Users\X556\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.exe.config
+C:\Users\X556\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.exe
+C:\Users\X556\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.pdb
+C:\Users\X556\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.exe
+C:\Users\X556\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.pdb
+C:\Users\X556\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.csprojResolveAssemblyReference.cache
+C:\Users\X556\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.Form1.resources
+C:\Users\X556\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.Properties.Resources.resources
+C:\Users\X556\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.exe.config
+C:\Users\ASUS\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.exe
+C:\Users\ASUS\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.pdb
+C:\Users\ASUS\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.exe
+C:\Users\ASUS\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\bin\Debug\Soru1Sinema.pdb
+C:\Users\ASUS\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.Form1.resources
+C:\Users\ASUS\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.Properties.Resources.resources
+C:\Users\ASUS\Desktop\github\veri yapıları sinema sorusu\Soru1Sinema\Soru1Sinema\obj\Debug\Soru1Sinema.csproj.GenerateResource.Cache
